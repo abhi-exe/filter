@@ -1,0 +1,5 @@
+first get the object files of filters.c and helpers.c
+by doing gcc -c filters.c
+and gcc -c helpers.c
+then make the executable using gcc helpers.o filters.o 
+now a.out will be produced.
